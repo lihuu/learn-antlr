@@ -1,4 +1,5 @@
 // Generated from ArrayInit.g4 by ANTLR 4.9.2
+package array;
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 
 /**
